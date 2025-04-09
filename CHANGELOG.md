@@ -1,3 +1,9 @@
+## 0.19.7
+
+- Update Facebook SDK for Android from `[17.0,18.0)` to `[18.0,19.0)`
+- Update Facebook SDK for iOS (`FBSDKCoreKit`) from `~> 17.0` to `~> 18.0`
+
+
 ## 0.19.5
 - Bump up android gradle version to `8.11.1`
 - Update gradle syntax to use declarative style
